@@ -4,3 +4,4 @@ faiss-cpu
 langchain
 requests
 configparser
+langchain-community
